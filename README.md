@@ -1,5 +1,5 @@
 # Java
-java projecrs
+java projects
 ⭐ this is a train ticket booking system using java and gui 
 function>
 ⭐this is a simple java project with departure station and arrival station
